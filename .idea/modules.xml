@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Architectures.iml" filepath="$PROJECT_DIR$/Architectures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvp/mvp.iml" filepath="$PROJECT_DIR$/mvp/mvp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvp-clean/mvp-clean.iml" filepath="$PROJECT_DIR$/mvp-clean/mvp-clean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvp-dagger/mvp-dagger.iml" filepath="$PROJECT_DIR$/mvp-dagger/mvp-dagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvp-kotlin/mvp-kotlin.iml" filepath="$PROJECT_DIR$/mvp-kotlin/mvp-kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvp-room/mvp-room.iml" filepath="$PROJECT_DIR$/mvp-room/mvp-room.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvp-rxjava/mvp-rxjava.iml" filepath="$PROJECT_DIR$/mvp-rxjava/mvp-rxjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvvm-data-binding/mvvm-data-binding.iml" filepath="$PROJECT_DIR$/mvvm-data-binding/mvvm-data-binding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvvm-live/mvvm-live.iml" filepath="$PROJECT_DIR$/mvvm-live/mvvm-live.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvvm-live-kotlin/mvvm-live-kotlin.iml" filepath="$PROJECT_DIR$/mvvm-live-kotlin/mvvm-live-kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvvm-rxjava/mvvm-rxjava.iml" filepath="$PROJECT_DIR$/mvvm-rxjava/mvvm-rxjava.iml" />
+    </modules>
+  </component>
+</project>

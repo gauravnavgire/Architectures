@@ -1,0 +1,2 @@
+include ':app', ':mvp', ':mvp-clean', ':mvp-dagger', ':mvp-rxjava', ':mvp-kotlin', ':mvvm-data-binding', ':mvvm-live',
+        ':mvp-room', ':mvvm-live-kotlin', ':mvvm-rxjava'
